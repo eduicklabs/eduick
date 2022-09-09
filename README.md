@@ -1,2 +1,2 @@
-# eduick
+# Eduick
 Eduick Labs
